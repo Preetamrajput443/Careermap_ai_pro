@@ -1,2 +1,2 @@
-# Careermap_ai_pro
-Future -ready Ai career assistant 
+# CareerMap AI Pro
+Complete future-ready career assistant powered by AI.
